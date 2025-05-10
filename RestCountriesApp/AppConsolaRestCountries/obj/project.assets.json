@@ -124,11 +124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\AppConsolaRestCountries\\AppConsolaRestCountries.csproj",
+      "projectUniqueName": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppConsolaRestCountries\\AppConsolaRestCountries.csproj",
       "projectName": "AppConsolaRestCountries",
-      "projectPath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\AppConsolaRestCountries\\AppConsolaRestCountries.csproj",
+      "projectPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppConsolaRestCountries\\AppConsolaRestCountries.csproj",
       "packagesPath": "C:\\Users\\erica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\AppConsolaRestCountries\\obj\\",
+      "outputPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppConsolaRestCountries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj": {
-              "projectPath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj"
+            "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj": {
+              "projectPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj"
             }
           }
         }

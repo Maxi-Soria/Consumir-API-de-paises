@@ -10,3 +10,16 @@ C:\Users\erica\Desktop\Practica Consumo de Apis\RestCountriesApp\RestCountriesAP
 C:\Users\erica\Desktop\Practica Consumo de Apis\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\refint\RestCountriesAPI.dll
 C:\Users\erica\Desktop\Practica Consumo de Apis\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.pdb
 C:\Users\erica\Desktop\Practica Consumo de Apis\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\ref\RestCountriesAPI.dll
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\bin\Debug\net8.0\RestCountriesAPI.deps.json
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\bin\Debug\net8.0\RestCountriesAPI.dll
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\bin\Debug\net8.0\RestCountriesAPI.pdb
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.csproj.AssemblyReference.cache
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.AssemblyInfoInputs.cache
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.AssemblyInfo.cs
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.sourcelink.json
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.dll
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\refint\RestCountriesAPI.dll
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\RestCountriesAPI.pdb
+C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\RestCountriesAPI\obj\Debug\net8.0\ref\RestCountriesAPI.dll

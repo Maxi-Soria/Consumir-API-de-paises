@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppConsolaRestCountries
-build_property.ProjectDir = C:\Users\erica\Desktop\Practica Consumo de Apis\RestCountriesApp\AppConsolaRestCountries\
+build_property.ProjectDir = C:\Users\erica\Desktop\Proyectos\Consumir-API-de-paises\RestCountriesApp\AppConsolaRestCountries\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

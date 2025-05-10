@@ -106,11 +106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
       "projectName": "RestCountriesAPI",
-      "projectPath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
+      "projectPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
       "packagesPath": "C:\\Users\\erica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\obj\\",
+      "outputPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erica\\AppData\\Roaming\\NuGet\\NuGet.Config",

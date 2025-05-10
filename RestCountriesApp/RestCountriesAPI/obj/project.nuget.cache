@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxkFxnrBHFw=",
+  "dgSpecHash": "LUqjZ3CTOvE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
+  "projectFilePath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\RestCountriesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erica\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
   ],
