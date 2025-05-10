@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FJmCs+aQVg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erica\\Desktop\\Practica Consumo de Apis\\RestCountriesApp\\AppConsolaRestCountries\\AppConsolaRestCountries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erica\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
