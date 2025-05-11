@@ -6,6 +6,11 @@ namespace RestCountriesAPI
     {
         private readonly HttpClient _httpClient = new HttpClient();
 
+        public CountryService(HttpClient httpClient) // ✅ público y con HttpClient
+        {
+            _httpClient = httpClient;
+        }
+
         public async Task<List<Country>> GetAllCountriesAsync()
         {
             string url = "https://restcountries.com/v3.1/all";

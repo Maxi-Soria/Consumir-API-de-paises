@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A625D932-B73E-4733-ABEC-3D6FFA1C779B}|AppDesktopRestCountries\\AppDesktopRestCountries.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\appdesktoprestcountries\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A625D932-B73E-4733-ABEC-3D6FFA1C779B}|AppDesktopRestCountries\\AppDesktopRestCountries.csproj|solutionrelative:appdesktoprestcountries\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\webrestcountries\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|solutionrelative:webrestcountries\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A625D932-B73E-4733-ABEC-3D6FFA1C779B}|AppDesktopRestCountries\\AppDesktopRestCountries.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\appdesktoprestcountries\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A625D932-B73E-4733-ABEC-3D6FFA1C779B}|AppDesktopRestCountries\\AppDesktopRestCountries.csproj|solutionrelative:appdesktoprestcountries\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{132ACCAB-6F63-4AD1-91CB-633673A5BDAD}|RestCountriesAPI\\RestCountriesAPI.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\restcountriesapi\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132ACCAB-6F63-4AD1-91CB-633673A5BDAD}|RestCountriesAPI\\RestCountriesAPI.csproj|solutionrelative:restcountriesapi\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{132ACCAB-6F63-4AD1-91CB-633673A5BDAD}|RestCountriesAPI\\RestCountriesAPI.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\restcountriesapi\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{132ACCAB-6F63-4AD1-91CB-633673A5BDAD}|RestCountriesAPI\\RestCountriesAPI.csproj|solutionrelative:restcountriesapi\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\webrestcountries\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|solutionrelative:webrestcountries\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|c:\\users\\erica\\desktop\\proyectos\\consumir-api-de-paises\\restcountriesapp\\webrestcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DF6087-23D8-4164-810D-1E70313FD10F}|WebRestCountries\\WebRestCountries.csproj|solutionrelative:webrestcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,35 +56,62 @@
               "RelativeDocumentMoniker": "RestCountriesAPI\\Country.cs",
               "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\Country.cs",
               "RelativeToolTip": "RestCountriesAPI\\Country.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:55:41.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppDesktopRestCountries\\Form1.cs",
-              "RelativeDocumentMoniker": "AppDesktopRestCountries\\Form1.cs",
-              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppDesktopRestCountries\\Form1.cs",
-              "RelativeToolTip": "AppDesktopRestCountries\\Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:33:35.823Z",
+              "WhenOpened": "2025-05-11T01:51:53.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppDesktopRestCountries\\Form1.cs",
-              "RelativeDocumentMoniker": "AppDesktopRestCountries\\Form1.cs",
-              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\AppDesktopRestCountries\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AppDesktopRestCountries\\Form1.cs [Dise\u00F1o]",
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\CountryService.cs",
+              "RelativeDocumentMoniker": "RestCountriesAPI\\CountryService.cs",
+              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\RestCountriesAPI\\CountryService.cs",
+              "RelativeToolTip": "RestCountriesAPI\\CountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:32:44.265Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-11T01:41:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Program.cs",
+              "RelativeDocumentMoniker": "WebRestCountries\\Program.cs",
+              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Program.cs",
+              "RelativeToolTip": "WebRestCountries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:38:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebRestCountries\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebRestCountries\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T01:34:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebRestCountries\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\erica\\Desktop\\Proyectos\\Consumir-API-de-paises\\RestCountriesApp\\WebRestCountries\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebRestCountries\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwCAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:32:07.498Z",
+              "EditorCaption": ""
             }
           ]
         },

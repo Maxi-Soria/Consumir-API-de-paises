@@ -1,0 +1,25 @@
+﻿@model RestCountriesAPI.Country
+
+@{
+    ViewData["Title"] = "Seleccionar país";
+}
+
+<h1>Seleccioná un país</h1>
+
+<form method="post">
+    <select name="cca3" asp-items="ViewBag.Countries" class="form-select" style="width:300px">
+        <option value="">-- Elegí un país --</option>
+    </select>
+    <button type="submit" class="btn btn-primary mt-2">Ver detalles</button>
+</form>
+
+@if (Model != null)
+{
+    <h2>Datos del país:</h2>
+    <ul>
+        <li><strong>Nombre:</strong> @Model.name.Common</li>
+        <li><strong>Capital:</strong> @(Model.Capital != null ? string.Join(", ", Model.Capital) : "No disponible")</li>
+        <li><strong>Región:</strong> @Model.Region</li>
+
+    </ul>
+}

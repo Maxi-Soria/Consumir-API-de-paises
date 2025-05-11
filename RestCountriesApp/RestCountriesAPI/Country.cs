@@ -3,6 +3,7 @@
     public class Country
     {
         public Name name { get; set; }
+        public string Cca3 { get; set; } // Código de 3 letras
         public string NombreVisible => name?.Common ?? "Sin nombre";
 
         public List<string> Capital { get; set; }
